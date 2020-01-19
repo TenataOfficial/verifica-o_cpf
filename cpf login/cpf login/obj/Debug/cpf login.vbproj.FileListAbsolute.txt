@@ -1,0 +1,10 @@
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\bin\Debug\cpf login.exe.config
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf_login.Form1.resources
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf_login.Resources.resources
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf login.vbproj.GenerateResource.Cache
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\bin\Debug\cpf login.exe
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\bin\Debug\cpf login.pdb
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\bin\Debug\cpf login.xml
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf login.exe
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf login.xml
+c:\users\tenata\documents\visual studio 2013\Projects\cpf login\cpf login\obj\Debug\cpf login.pdb
